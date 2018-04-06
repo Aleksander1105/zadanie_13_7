@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/Aleksander1105/zadanie_13_7/issues"
   },
-  "homepage": "https://github.com/Aleksander1105/zadanie_13_7#readme"
+  "homepage": "https://github.com/Aleksander1105/zadanie_13_7#readme",
+  "dependencies": {
+    "color": "^3.0.0",
+    "colors": "^1.2.1",
+    "readdir": "0.0.13"
+  }
 }
