@@ -1,8 +1,1 @@
-function (err) {
-    	if (err) throw err;
-    	console.log('Done!'.red);
-    	fs.readFile('./tekst.txt', 'utf-8', function(err, data) {
-            if (err) throw err;
-    		console.log('The file is composed of: '.red + data);
-    	});
-    }
+.git,index.js,node_modules,package.json,README.md,text.txt

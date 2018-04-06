@@ -21,6 +21,7 @@
   "dependencies": {
     "color": "^3.0.0",
     "colors": "^1.2.1",
+    "http": "0.0.0",
     "readdir": "0.0.13"
   }
 }
